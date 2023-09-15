@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-  <a href="rezazare2088@gmail.com" target="_blank">
+  <a href="mailto:rezazare2088@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/reza-zare-7327a8218" target="_blank">
