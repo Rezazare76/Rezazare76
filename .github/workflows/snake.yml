@@ -7,7 +7,7 @@ on:
 
   push:
     branches:
-    - master
+      - master
 
 jobs:
   generate:
@@ -15,11 +15,11 @@ jobs:
 
     steps:
       - name: generate snake.svg
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk/svg-only@<latest_version>
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
-          snake_color: 'blue'
+          snake_color: "blue"
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
