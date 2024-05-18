@@ -2,10 +2,10 @@
 
 ### About me:
 
-- 😄 Fun fact: I'm not just a front worker, I'm also a manager and ideator
-- 🔭 I'm looking for interesting and challenging projects
-- 📫 How to reach me: [Email](rezazare2088@gmail.com)
-- ❤️ I love teaching`
+- 😄 Fun Fact: I'm not just a front-end developer; I'm also a manager.
+- 🔭 Looking For: Interesting and challenging projects.
+- 📫 How to Reach Me: [Email](rezazare2088@gmail.com)
+- ❤️ Passion: I love teaching and sharing knowledge.
 
 <!--
 <div align="center">
