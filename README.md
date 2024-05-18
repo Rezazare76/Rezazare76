@@ -50,6 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Rezazare76/Rezazare76/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/Rezazare76/Rezazare76/output/github-contribution-grid-snake-dark.svg)
 
 ###
