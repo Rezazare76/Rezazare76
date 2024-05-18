@@ -1,11 +1,13 @@
 <h2 align="left">Hi, I am Reza Zare 👋</h2>
-###
+
 ### About me:
+
 - 😄 Fun fact: I'm not just a front worker, I'm also a manager and ideator
 - 🔭 I'm looking for interesting and challenging projects
 - 📫 How to reach me: [Email](rezazare2088@gmail.com)
 - ❤️ I love teaching`
-<!-- 
+
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rezazare76&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div> -->
@@ -18,6 +20,7 @@
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Rezazare76&theme=github">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rezazare76&theme=dracula" />
 <div>
+
 ###
 
 <div align="left">
