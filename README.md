@@ -2,7 +2,7 @@
 
 ### About me:
 
-- 😄 Fun Fact: I'm not just a front-end developer; I'm also a manager.
+- 😄 Developer & Manager: I specialize in front-end development and manage teams and projects.
 - 🔭 Looking For: Interesting and challenging projects.
 - 📫 How to Reach Me: [Email](rezazare2088@gmail.com)
 - ❤️ Passion: I love teaching and sharing knowledge.
