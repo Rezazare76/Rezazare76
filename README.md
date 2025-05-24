@@ -4,7 +4,7 @@
 
 - 😄 Developer & Manager: I specialize in front-end development and manage teams and projects.
 - 🔭 Looking For: Interesting and challenging projects.
-- 📫 How to Reach Me: [Email](rezazare2088@gmail.com)
+- 📫 How to Reach Me: [Email me](mailto:rezazare2088@gmail.com)
 - ❤️ Passion: I love teaching and sharing knowledge.
 
 <!--
